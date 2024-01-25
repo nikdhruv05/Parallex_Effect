@@ -1,0 +1,4 @@
+- This is the frontend project on Parallex_Effect, where there is some of  the effect is made.
+    - There is sticky background with content moving on it.
+    - Speed of the moving content is more than the background.
+    - z-axis is also used to make this happen. so that content can move on it.
